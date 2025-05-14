@@ -7,3 +7,6 @@ git add . > add arquivos da pasta
 git commit -m "mensagem de commit" > envia atualizações pro git
 
 git push origin main > nao sei mas se eu atualizar o git, aparece tudo la
+
+*agora estamos na branch nova
+
