@@ -1,9 +1,9 @@
 git init > criar repositório local
 
-git remote add origin "link github"
+git remote add origin "link github" > conectar repositório com github
 
-git add .
+git add . > add arquivos da pasta
+ 
+git commit -m "mensagem de commit" > envia atualizações pro git
 
-git commit -m "mensagem de commit"
-
-git push origin main
+git push origin main > nao sei mas se eu atualizar o git, aparece tudo la
